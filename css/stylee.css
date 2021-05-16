@@ -1,0 +1,25 @@
+#here{
+    color: #8cc6e6;
+    border: none;
+    /* background-color: #dfd3c386; */
+  }
+  table,th,td {
+   background-color: #b9d5d6;
+   color: #000000;
+   border: solid #102e3f 2px;
+   border-collapse:separate;
+ } 
+ #form{
+     /* position: relative;
+     float: right ; */
+     border: solid 1.1px;
+     position: fixed;
+     background-color: lightblue;
+     border: solid ;
+     color:rgba(19, 62, 63, 0.822);
+     border: cadetblue;
+     right: 10%;
+
+ }
+
+
